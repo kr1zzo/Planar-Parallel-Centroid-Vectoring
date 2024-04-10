@@ -10,17 +10,17 @@ Sketch for inverse kinematics calculation:
 
 ## Execution
 
-## Matlab script for calculating the optimal length of mechanism articles:
+### Matlab script for calculating the optimal length of mechanism articles:
 ```
 optimal_bar_lengths.m
 ```
 
-## Matlab script for calculating the working space of the mechanism:
+### Matlab script for calculating the working space of the mechanism:
 ```
 seminar.m
 ```
 
-### Results
+## Results
 
 #### Results can be found i `Documentation/report.pdf`report
 
